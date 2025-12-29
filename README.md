@@ -66,10 +66,12 @@ Foreign keys are used to maintain relationships between doctors, patients, and a
 5. Update database credentials in the JDBC connection class
 
    String url = "jdbc:mysql://localhost:3306/hospital_db";
+   
    String username = "root";
+   
    String password = "your_password";
 
-6. Run the main class to start the application
+7. Run the main class to start the application
 
 ---
 
